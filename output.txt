@@ -1,0 +1,125 @@
+
+imported library: numpy
+
+imported library: openCV
+
+Single Line Comment
+
+Multiple Line comment
+
+Single Line Comment
+
+declared -> c: int, value -> 3
+
+declared -> b: int, value -> 2
+
+declared -> aaa: int
+
+declared -> aa: int
+
+declared -> a: int
+
+Take input from user from console for aaa
+
+Take input from user from console for aa
+
+Take input from user from console for a
+
+declared -> y: char, value -> 'a'
+
+declared -> x: char
+
+assignment: x -> 'c'
+
+declared -> name:string
+
+assignment: name -> "shujoy"
+
+assignment: a -> 5
+
+assignment: b -> 8
+
+parsing else block
+
+parsing if block
+
+declared -> n: int, value -> 3
+
+declared -> j: int, value -> 10
+
+declared -> res: int
+
+assignment: res -> 1
+
+Print -> res
+
+parsing else if block
+
+parsing if block
+
+argument -> b_: double
+
+argument -> a_: int
+
+assignment: a -> 6
+
+function -> add: return type -> double
+
+Called function name -> add
+
+Error: e is an invalid variable to print
+
+Single Line Comment
+
+declared : ab int, size -> 10
+
+declared : bc int, size -> 6
+
+assignment: ab[1] -> 1
+
+assignment: ab[2] -> 1
+
+Error: array size out of bounds -> ab
+
+assignment: bc[1] -> -1
+
+Single Line Comment
+
+declared : i int, value -> 0
+
+assignment: i -> 1
+
+declared -> new: int
+
+assignment: new -> 1
+
+Parsing for loop
+
+declared -> k: int
+
+declared -> fl: double
+
+parsing if block
+
+assignment: k -> 0
+
+assignment: k -> 1
+
+Called builtin function -> input
+
+assignment: k -> 1
+
+Error: undeclared function -> anyFunc
+
+Error: res variable of int type has already been declared
+
+Parsing for loop
+
+Parsing while loop
+
+Parsing while loop
+
+Called builtin function -> gcd
+
+
+			The program has terminated
